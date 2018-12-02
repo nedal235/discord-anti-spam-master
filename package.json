@@ -2,7 +2,7 @@
   "name": "discord-anti-spam",
   "version": "1.1.6",
   "description": "Discord anti spam package",
-  "main": "antispam.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
